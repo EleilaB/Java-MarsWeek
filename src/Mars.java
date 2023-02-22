@@ -31,6 +31,7 @@ public class Mars {
         Thread.sleep(1500);
 
         new MarsExpedition();
+        new FindingsList();
 
     }
 
